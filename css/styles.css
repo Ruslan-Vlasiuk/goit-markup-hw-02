@@ -13,14 +13,8 @@ h6 {
     font-family: "Roboto", sans-serif;
 }
 
-.page-header  {
-    font-size: 16px;
-    text-align: left;
-    line-height: 1.5;
-    letter-spacing: 0.32px;
-}
 
-.logo {
+.page-header .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -29,7 +23,7 @@ h6 {
     text-transform: uppercase;
     color: #4d5ae5;
 
-.logo-span {
+.page-header .logo-span {
         color: #2e2f42;
     }
 }
