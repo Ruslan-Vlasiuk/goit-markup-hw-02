@@ -28,7 +28,7 @@ h6 {
         color: #2e2f42;
 }
 
-.page-nav a {
+.link {
     color: #2e2f42;
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -36,8 +36,8 @@ h6 {
     font-weight: 500;
 }
 
-.page-nav a:hover,
-.page-nav a:focus {
+.link:hover,
+.link:focus {
     color: #404bbf;
     text-decoration: underline;
 }
