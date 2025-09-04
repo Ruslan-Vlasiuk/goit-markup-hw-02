@@ -62,6 +62,7 @@ h6 {
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
+    text-align: center;
 }
 
 .main-section {
@@ -92,4 +93,21 @@ h6 {
 .button-main:focus {
     background-color: #404bbf;
 }
-
+.advantages {
+    background-color: #ffffff;
+  
+}
+.advantages-main {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.advantages-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
