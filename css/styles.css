@@ -55,3 +55,41 @@ h6 {
 .contact-link:focus {
     color: #404bbf;
 }
+
+.page-main {
+    font-style: italic;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.main-section {
+    background-color: #2e2f42;
+
+}
+.contact-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contact-link:hover,
+.contact-link:focus {
+    color: #404bbf;
+}
+.button-main {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    color: #ffffff;
+    cursor: pointer;
+}
+.button-main:hover,
+.button-main:focus {
+    background-color: #404bbf;
+}
+
